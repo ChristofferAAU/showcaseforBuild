@@ -1,0 +1,58 @@
+#column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-self: start;
+    align-items: flex-start;
+    width:auto;
+    flex: 1;
+}
+
+#row {
+    display: flex;
+    width: fit-content;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+    column-gap: 5%;
+}
+
+#main {
+    display: flex;
+    width: 97.5%;
+    align-self: center;
+    align-items: start;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    row-gap: 10%;
+    border: 5px solid bisque;
+}
+
+#rowcolumn {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    justify-self: end;
+    align-items: start;
+    align-self: end;
+    width:fit-content;
+}
+
+#button {
+  background-color: rgb(231, 200, 153);
+  width: 100%;
+  border: 1px solid burlywood;
+  border-radius: 0%;
+}
+
+#list {
+    width: 100%
+}
+
+.left {
+    width: 33%;
+}
+
+.center {
+    width: 34%;
+}

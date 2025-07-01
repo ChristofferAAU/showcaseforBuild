@@ -1,0 +1,45 @@
+#root {
+  width: 100%;
+  align-items: center;
+  margin: 5%;
+}
+
+#app {
+  align-self: start;
+  background-color: bisque;
+  position: fixed;
+  width: 90%;
+  top: 0;
+  left: 5%;
+
+}
+
+#navbar {
+  align-self: start;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: space-around;
+  border-color: black;
+  flex: 1;
+}
+
+#navbar #buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: end;
+  background-color: bisque;
+}
+
+#buttononbar {
+  background-color: blanchedalmond;
+  width: 100%;
+  border: 1px solid burlywood;
+  border-radius: 0%;
+}
+
+#mainbody{
+    background-color: burlywood;
+}

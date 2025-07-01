@@ -1,0 +1,195 @@
+{
+    "id": "fa738090-7f7b-4fb7-bf7b-e710ed4b2e4c",
+    "mask": null,
+    "productName": "Autoclaved aerated concrete blocks - Planstein PP 4/055",
+    "description": "The product is used for masonry in buildings. Building blocks of aerated concrete is placed both inside and outside of a building and is used as wall elements.",
+    "gwpValues": [
+        {
+            "gwpUnit": "kg",
+            "a1A3": 221,
+            "a4": null,
+            "a5": 2.16,
+            "b1": null,
+            "b2": null,
+            "b3": 0,
+            "b4": null,
+            "b5": null,
+            "b6": null,
+            "b7": null,
+            "c1": 5.77,
+            "c2": 4.23,
+            "c3": 5.96,
+            "c4": 0.248,
+            "d": 0.0194
+        },
+        {
+            "gwpUnit": "kg",
+            "a1A3": 221,
+            "a4": null,
+            "a5": 2.16,
+            "b1": null,
+            "b2": null,
+            "b3": 0,
+            "b4": null,
+            "b5": null,
+            "b6": null,
+            "b7": null,
+            "c1": 5.77,
+            "c2": 4.23,
+            "c3": 5.96,
+            "c4": 0.248,
+            "d": 0.0194
+        },
+        {
+            "gwpUnit": "ton",
+            "a1A3": 221000,
+            "a4": null,
+            "a5": 2160,
+            "b1": null,
+            "b2": null,
+            "b3": 0,
+            "b4": null,
+            "b5": null,
+            "b6": null,
+            "b7": null,
+            "c1": 5770,
+            "c2": 4230,
+            "c3": 5960,
+            "c4": 248,
+            "d": 19.400000000000002
+        }
+    ],
+    "corruptPDF": false,
+    "producentFoundBugInECOPortalData": false,
+    "categories": [
+        "Facade",
+        "Indervæg",
+        "Præfabrikerede Elementer"
+    ],
+    "subCategory": "Beton og cementbaserede produkter",
+    "specificCategory": "Betonblokke",
+    "imageId": null,
+    "materials": [
+        {
+            "materialName": "Anhydrite",
+            "kg": 0,
+            "percentage": 0
+        },
+        {
+            "materialName": "Aluminium paste",
+            "kg": 0.1,
+            "percentage": 0.1
+        },
+        {
+            "materialName": "Cement",
+            "kg": 19,
+            "percentage": 19
+        },
+        {
+            "materialName": "Gypsum",
+            "kg": 9,
+            "percentage": 9
+        },
+        {
+            "materialName": "Lime",
+            "kg": 5,
+            "percentage": 5
+        },
+        {
+            "materialName": "Mould oil",
+            "kg": 0.1,
+            "percentage": 0.1
+        },
+        {
+            "materialName": "Plasticizer",
+            "kg": 0.02,
+            "percentage": 0.02
+        },
+        {
+            "materialName": "Recycled AAC",
+            "kg": 0,
+            "percentage": 0
+        },
+        {
+            "materialName": "Sand",
+            "kg": 35,
+            "percentage": 35
+        },
+        {
+            "materialName": "Water",
+            "kg": 32,
+            "percentage": 32
+        }
+    ],
+    "producentUploadData": {
+        "brand": [],
+        "tekniskSpecifikation": [],
+        "tekniskSpecifikationURL": null,
+        "certifications": [],
+        "producentBladURL": null,
+        "imageURLS": [],
+        "otherURLS": [],
+        "producentURL": null
+    },
+    "rsl": [
+        {
+            "rslData": "Reference service Life",
+            "rslValue": 80
+        }
+    ],
+    "pcr": [],
+    "masseFylde": {
+        "volume": "1 m3",
+        "density": {
+            "wholeUnit": "754 kg/m3",
+            "value": 754,
+            "unit": "kg/m3"
+        },
+        "thickness": {
+            "value": 0,
+            "unit": "null"
+        },
+        "weight": 0
+    },
+    "country": {
+        "short": "RER",
+        "long": "Regional Europe"
+    },
+    "link": "https://ecosmdp.eco-platform.org/resource/datastocks/9226e014-5558-48f1-a852-011c5943d626/processes/fa738090-7f7b-4fb7-bf7b-e710ed4b2e4c/epd?version=00.01.000",
+    "version": null,
+    "epdid": "MD-23056-EN",
+    "declaredUnits": [
+        {
+            "isInitial": true,
+            "unit": "kg",
+            "wholeUnit": "1 kg",
+            "amount": 1,
+            "safetyLevel": 1,
+            "environmentalImpacts": []
+        },
+        {
+            "isInitial": false,
+            "unit": "kg",
+            "wholeUnit": "1 kg",
+            "amount": 1,
+            "safetyLevel": 1,
+            "environmentalImpacts": []
+        },
+        {
+            "isInitial": false,
+            "unit": "ton",
+            "wholeUnit": "1 ton",
+            "amount": 1,
+            "safetyLevel": 1,
+            "environmentalImpacts": []
+        }
+    ],
+    "compliance": [
+        "EN 15804+A2",
+        "ISO 14025"
+    ],
+    "producerName": "H+H Deutschland GmbH",
+    "validTo": 2028,
+    "productClaim": null,
+    "epdFrontPageURL": "https://devapi.buildtivity.com/accounts//frontpages/MD-23056-EN_frontpage.jpg"
+}
