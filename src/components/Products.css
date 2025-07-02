@@ -45,6 +45,10 @@
   border-radius: 0%;
 }
 
+#margindiv {
+    margin: 5%;
+}
+
 #list {
     width: 100%
 }

@@ -109,6 +109,7 @@ function ProductPage(){
     productData.forEach((element) => {if(element != null){products.push(ProductCard(element))}});
 
     return(    <>
+    <div id="margindiv">
     <header>
       <h1>Products</h1>
     </header>
@@ -116,6 +117,7 @@ function ProductPage(){
         <ul>
             {products}
         </ul>
+    </div>
     </div>
     </>)
 }
